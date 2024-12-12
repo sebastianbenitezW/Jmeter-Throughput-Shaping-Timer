@@ -1,9 +1,11 @@
-<p class="red-text"><strong>IMPORTANTE:</strong>Descargar los archivos para visualizar el reporte completo en formato HTML.  Abrir index.html en un
-navegador cualquiera excepto Brave Browser (No se muestran los resultados con este navegador)</p>
+<p class="red-text"><strong>IMPORTANTE:</strong> Descargar los archivos para visualizar el reporte completo en formato HTML. Abrir index.html en cualquier navegador, excepto Brave Browser (no se muestran los resultados con este navegador).</p>
 
 Se configuraron 200 usuarios para evaluar el rendimiento del servidor bajo alta demanda. Durante las pruebas, 
 se analizaron códigos de respuesta, latencia, bytes recibidos y enviados, y el tiempo transcurrido (elapsed time), 
-identificando y solucionando cuellos de botella para garantizar una eficiencia y estabilidad óptimas del servidor.
+identificando y solucionando cuellos de botella para garantizar una eficiencia y estabilidad óptimas del servidor.  
+Reporte Html visualización:
+![ReporteHtml](https://github.com/user-attachments/assets/554f7d23-c1c2-4ca2-8d9e-bed1f43fbc5f)
+
 
 Sitio Web: **asecuritysite.com**  
 Internet speed: **25 Mbps**  
