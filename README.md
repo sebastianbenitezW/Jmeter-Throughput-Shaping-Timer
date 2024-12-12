@@ -1,5 +1,6 @@
 <p class="red-text"><strong>IMPORTANTE:</strong> Descargar los archivos para visualizar el reporte completo en formato HTML. Abrir index.html en cualquier navegador, excepto Brave Browser (no se muestran los resultados con este navegador).</p>
 
+Pruebas de rendimiento con JMeter con el plugin "Throughput Shaping Timer".
 Se configuraron 200 usuarios para evaluar el rendimiento del servidor bajo alta demanda. Durante las pruebas, 
 se analizaron códigos de respuesta, latencia, bytes recibidos y enviados, y el tiempo transcurrido (elapsed time), 
 identificando y solucionando cuellos de botella para garantizar una eficiencia y estabilidad óptimas del servidor.  
