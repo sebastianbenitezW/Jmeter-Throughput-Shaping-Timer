@@ -1,3 +1,5 @@
+# Jmeter-Throughput-Shaping-Timer
+
 <p class="red-text"><strong>IMPORTANTE:</strong> Descargar los archivos para visualizar el reporte completo en formato HTML. Abrir index.html en cualquier navegador, excepto Brave Browser (no se muestran los resultados con este navegador).</p>
 
 Pruebas de rendimiento con JMeter con el plugin "Throughput Shaping Timer".
