@@ -6,4 +6,4 @@ Sitio Web: **asecuritysite.com**
 Internet speed: **25 Mbps**  
 Conexion Type: **Conexión Ethernet**  
 Operating system: **Qubes OS: Fedora Template**  
-Users: **1 (Simulación completa de interacción de usuario)**  
+Users: **200**  
