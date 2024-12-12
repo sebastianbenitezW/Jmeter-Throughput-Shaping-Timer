@@ -1,4 +1,5 @@
-<p class="red-text"><strong>IMPORTANTE:</strong> Descargar los archivos para visualizar el reporte completo en formato HTML</p>
+<p class="red-text"><strong>IMPORTANTE:</strong>Descargar los archivos para visualizar el reporte completo en formato HTML.  Abrir index.html en un
+navegador cualquiera excepto Brave Browser (No se muestran los resultados con este navegador)</p>
 
 Se configuraron 200 usuarios para evaluar el rendimiento del servidor bajo alta demanda. Durante las pruebas, 
 se analizaron códigos de respuesta, latencia, bytes recibidos y enviados, y el tiempo transcurrido (elapsed time), 
